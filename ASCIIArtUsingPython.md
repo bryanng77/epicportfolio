@@ -6,7 +6,8 @@ I came across this form of art called **ASCII** art, and I read somewhere on the
 
 For those are not familiar with what **ASCII art** is, it **ASCII art** is a graphic design technique that uses computers for presentation and consists of pictures pieced together from individual characters. It looks a little something like this:
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79688274/128904113-6ade1ad2-92c7-4e81-a4fe-550090cc806d.png)
+
 
 Here's an image of Dwight Schrute from the sitcom, "The Office". 
 
