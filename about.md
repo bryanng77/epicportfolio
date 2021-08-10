@@ -1,7 +1,8 @@
 # ABOUT ME
 [Back to Home](README.md)
 
-![88BC40B9-7771-41B2-8955-17DDB526C0B1_1_105_c](https://user-images.githubusercontent.com/79688274/110491070-e164f980-812b-11eb-8cee-2bd4b734c9ff.jpeg)
+![705be1e7-c343-4d4e-b644-731b2c58f09c](https://user-images.githubusercontent.com/79688274/128887275-408c42f1-2a3c-45fe-b22d-f60bfb73bc1f.JPG)
+
 
 **I am a first year student pursuing a degree in Data Science and Business Analytics at the University of London (UOL) under Singapore Instituite of Management Global Education (SIMGE). I graduated with a Business Studies diploma from Ngee Ann Polytechnic, and this experience has allowed me to gain insight into real business environments and challenges.**
 
