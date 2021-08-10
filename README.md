@@ -1,4 +1,4 @@
-# My Python Portfolio
+# My Coding Portfolio of sorts :P
 [Home](README.md) | [About Me](about.md)
 
 ### >>>> [Python Mini Projects](pythonminiproject.md) <<<<
