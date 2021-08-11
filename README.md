@@ -1,4 +1,4 @@
-# Welcome to my website!
+# Welcome To My Website!
 
 [Home](README.md) | [About Me](about.md)
 
