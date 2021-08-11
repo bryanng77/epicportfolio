@@ -81,7 +81,7 @@ print("Magic 8-Ball's answer: " + ball_answer)
 
 ```
 
-    Bryanasks: Hello almighty Magic 8-ball, will I win the lottery today?
+    Bryan asks: Hello almighty Magic 8-ball, will I win the lottery today?
     Magic 8-Ball's answer: Most probably ah
 
 
