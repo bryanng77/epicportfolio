@@ -1,6 +1,6 @@
-[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
-
 # ABOUT ME
+
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
 
 ![705be1e7-c343-4d4e-b644-731b2c58f09c](https://user-images.githubusercontent.com/79688274/128887275-408c42f1-2a3c-45fe-b22d-f60bfb73bc1f.JPG)
 
