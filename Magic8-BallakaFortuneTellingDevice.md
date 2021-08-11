@@ -4,7 +4,8 @@ Glad you could join me today! Ever wondered if a **Magic Fortune Device** could 
 
 This **Magic 8-Ball** derives much of its power from the mysterious power of Python's __*if/elif/else statements*__. Here, for the very first time, we shall reveal the secrets of this mysterious power.
 
-![image-2.png](attachment:image-2.png)
+![129035075-15d17ab8-ca55-4d02-973d-cf9b7493f090](https://user-images.githubusercontent.com/79688274/129036123-b5ba45db-7d81-40ba-aa20-9d06d2108c39.png)
+
 
 ### To begin, we will be writing a Python program that can answer any “Yes” or “No” question with a different fortune each time it executes.
 
@@ -76,7 +77,7 @@ else:
     
 
 print(name + "asks: " + question)
-print("Magic 8-Ball's answer: " + ball_answer)
+print("Magic 8-Ball's answer: " + ball_answer) #ball_answer depends on the number random.randint(1,8) generates
     
 
 ```
@@ -87,9 +88,9 @@ print("Magic 8-Ball's answer: " + ball_answer)
 
 ## Conclusion:
 
-And there we have it folks, our very own **Magic 8-Ball** that derives much of its power from the mysterious power of Python's __*if/elif/else statements*__.
+And there we have it folks, our very own **Magic 8-Ball** that uses Python's __*if/elif/else statements*__. 
 
-Really got the opportunity to apply the if/elif/else statements that I learnt recently and creating this was rather enjoyable! Okay, enough of me talking. Have fun and happy coding! :D
+Really glad that got the opportunity to apply the if/elif/else statements that I learnt recently. Creating this was pretty enjoyable and I truly believe that the best way to learn a programming language quickly is the apply what we've learnt! Okay, enough of me talking. Have fun and happy coding! :D
 
 
 
