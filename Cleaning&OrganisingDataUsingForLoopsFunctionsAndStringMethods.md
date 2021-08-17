@@ -1,8 +1,9 @@
 # Cleaning Fabric Store Data
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/79688274/129764723-ecdef65c-737e-4b55-86e7-ec2aafd9c7de.png)
 
-Hello there, glad you could join me today! For this mini project, I will be using some basic Python functions (mainly For Loops, Functions and some string methods) to clean up some data that was generated from a very old cash register that my god-grandmother is still using up till this day in her sewing shop all the way at Tanglin Halt area. I thought it'd be fun to play around with the data and explore what I can do with it! Without further ado, LETS GO!
+
+Hello there, glad you could join me today! For this mini project, I will be using some basic Python (mainly For Loops, Functions and some string methods) to clean up some data that was generated from a very old cash register that my god-grandmother is still using up till this day in her sewing shop all the way at Tanglin Halt area. I thought it'd be fun to play around with the data and explore what I can do with it! Without further ado, LETS GO!
 
 
 
@@ -128,7 +129,7 @@ green&white;,;09/15/17,    Phelps Ng   ;,;$30.52
 ;,;   $22.66   ;,; green&white&blue;,;09/15/17"""
 ```
 
-From the string, we can look at how messy the information is displayed. Our job here is to ensure that the data is split up properly so that we can proceed with our tasks. After much observation, you will be able to see that the data is organized in such a way that shows the **name of customer, cost of fabric, color of fabric and date of purchase**.
+Ohmygoodness!! The messy data is driving me insane!! But today, our job here is to ensure that the data is split up properly so that we can proceed with our tasks. After much observation, you will be able to see that the data is organized in such a way that shows the **name of customer, cost of fabric, color of fabric and date of purchase**.
 
 It looks like each transaction is separated from the next transaction by a "," and then each piece of data within a transaction is separated by the artifact ";,;". I realized that in order for us to split everything up, we will need to replace the ";,;" to something without a comma so that we do not split any of the transactions themselves. I'll show you what I mean very soon!
 
