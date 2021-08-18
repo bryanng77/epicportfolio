@@ -432,7 +432,6 @@ def color_count(fabric_color):
         if fabric_color == color:
             color_total += 1
     return color_total
-
 ```
 
 
@@ -443,6 +442,8 @@ for fabric_color in colors:
     print(
         "Hello ahma! Today, your store sold {0} rolls of {1} colored fabric. Well done!".format(color_count(fabric_color), fabric_color)
         )
+
+# Task 4 ACCOMPLISHED!!!
 ```
 
     Hello ahma! Today, your store sold 24 rolls of red colored fabric. Well done!
