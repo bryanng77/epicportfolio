@@ -1,5 +1,7 @@
 # LET'S PLAY A GAME OF SCRABBLE
 
+[Back to Home](README.md) | [Python Projects](pythonminiproject.md)
+
 What is Scrabble?
 
 ![image](https://user-images.githubusercontent.com/79688274/131106993-d7b337c8-1fce-42a0-9aab-2d9bd38005d0.png)
