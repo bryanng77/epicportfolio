@@ -2,8 +2,7 @@
 
 What is Scrabble?
 
-![image](https://user-images.githubusercontent.com/79688274/131106883-ab0559e4-532c-4e8e-90e5-49f8dd7589ff.png)
-
+![image](https://user-images.githubusercontent.com/79688274/131106993-d7b337c8-1fce-42a0-9aab-2d9bd38005d0.png)
 
 Scrabble is board-and-tile game in which two to four players compete in forming words with lettered tiles on a 225-square board; words spelled out by letters on the tiles interlock like words in a crossword puzzle. (took this description from the internet HAHAH but if you're interested, do check it out on your own!)
 
